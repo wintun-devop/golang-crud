@@ -3,7 +3,7 @@
 git commit -m "first commit"
 ```
 ```
-git nbranch -M main
+git branch -M main
 ```
 ```
 git remote add origin https://github.com/wintun-devop/golang-crud.git
