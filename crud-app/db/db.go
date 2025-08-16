@@ -20,6 +20,6 @@ func ConnectPostgresDB() *sql.DB {
 	if err != nil {
 		fmt.Println(err)
 	}
-	fmt.Println("db", db)
+	// fmt.Println("db", db)
 	return db
 }
